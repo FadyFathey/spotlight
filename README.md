@@ -11,7 +11,7 @@
 - **Detailed Information:** Get in-depth details about each movie, including cast, release date, and synopsis.
 - **Latest Releases:** Stay up-to-date with the newest movies hitting the screens.
 
-# Projects
+# Project
 
 ## Spotlight Movie App (React.js)
 As part of my professional experience, I took a leading role in developing the Spotlight Movie App using React.js. This dynamic web application provides users with an intuitive interface to explore and discover information about movies. Key contributions to the project include:
